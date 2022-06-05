@@ -1,0 +1,19 @@
+
+body{
+    background-color: whitesmoke;
+}
+
+header{
+    background-color: white;
+    text-align: left;
+    height: 50px;
+    width: 2000px;
+    padding: 20px;
+    align
+}
+.div_logo{
+   background-image: image('form.jpg') align="center";
+}
+#div_formulario{
+line-height: 1.5;
+}
